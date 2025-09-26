@@ -1,2 +1,6 @@
 Principles by Ray Dalio
+<<<<<<< HEAD
 Optimal Distinctiveness by Eric Zhao
+=======
+Science as a Vocation by Max Weber
+>>>>>>> wish_to
